@@ -20,13 +20,15 @@ print("hello world")
 # two 修改了 东西  1次
 
 
-# two 修改了 东西 2次
+# two 修改了 东西 02次
 print("hello world")
+
+
+
+print("hello world")
+
+# two 修改了 东西 01次
 print("hello world")
 print("hello world")
 
-# two 修改了 东西 3次
-print("hello world")
-print("hello world")
-print("hello world")
 
